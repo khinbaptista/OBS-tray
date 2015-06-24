@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OBStray.Properties" GeneratedClassName="obstray">
+  <Profiles />
+  <Settings>
+    <Setting Name="obsdir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Users\\mateus\\Documents\\Projetos\\OBS\\rundir\\OBS.exe</Value>
+    </Setting>
+    <Setting Name="obsconfigdir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Users\\mateus\\AppData\\Roaming\\OBS\\</Value>
+    </Setting>
+    <Setting Name="obsprofiledir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Users\\mateus\\AppData\\Roaming\\OBS\\profiles</Value>
+    </Setting>
+    <Setting Name="maxbitrate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="downscale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2,0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
